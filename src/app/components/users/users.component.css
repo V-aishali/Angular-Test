@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+}
+
+.userListWrapper {
+    padding: 20px;
+}
+
+.tableHeader {
+    display: flex;
+    justify-content: end;
+}
+
+.tableHeader button {
+    background-color: black;
+    color: white;
+}
+
+.mat-table {
+    width: 100%;
+}
+
+.deleteIcon {
+    cursor: pointer;
+    color: red;
+}
